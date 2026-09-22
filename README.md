@@ -6,11 +6,14 @@
 ![Accuracy](https://img.shields.io/badge/Model_Accuracy_(R²)-86%25-success)
 
 ---
-
-![Award Badge](https://img.shields.io/badge/Award-Very_Good-gold) ![Conference](https://img.shields.io/badge/Conference-AUCC_2026-blue) ![Accuracy](https://img.shields.io/badge/Model_Accuracy_(R²)-86%25-success)
-
 ## 📌 Project Overview
-This repository showcases the research and predictive modeling project presented at the **14th ASEAN Undergraduate Conference in Computing (AUCC 2026)**. The study focuses on forecasting Electric Vehicle (EV) trends and demands using advanced machine learning techniques. 
+This repository showcases our **research and predictive modeling project** presented at the **14th ASEAN Undergraduate Conference in Computing (AUCC 2026)**.
+
+The study focuses on **forecasting Electric Vehicle (EV) trends and demand** using machine learning techniques and predictive analytics.
+
+The project applies **Altair AI Studio (formerly RapidMiner)** to develop a no-code machine learning workflow covering data preprocessing, feature engineering, regression analysis, and predictive modeling.
+
+### 🏆 Research Recognition
 
 This project was awarded the **"Very Good"** recognition for its methodology and impactful findings.
 
