@@ -1,6 +1,5 @@
-# 🏆 EV Demand Forecasting Model — AUCC 2026
-
-> **Electric Vehicle Demand Forecasting using Machine Learning and Predictive Analytics**
+# 🏆 EV Demand Forecasting Model
+### AUCC 2026 — Electric Vehicle Growth & Demand Forecasting
 
 ![Award Badge](https://img.shields.io/badge/Award-Very_Good-gold)
 ![Conference](https://img.shields.io/badge/Conference-AUCC_2026-blue)
@@ -10,50 +9,47 @@
 
 ## 📌 Project Overview
 
-**EV Demand Forecasting Model** is a research and predictive modeling project presented at the **14th ASEAN Undergraduate Conference in Computing (AUCC 2026)**.
+This repository showcases our **research and predictive modeling project** presented at the **14th ASEAN Undergraduate Conference in Computing (AUCC 2026)**.
 
-The study focuses on analyzing and forecasting **Electric Vehicle (EV) trends and demand** using **Machine Learning and Predictive Analytics techniques**.
+The study focuses on **forecasting Electric Vehicle (EV) trends and demand** using machine learning techniques and predictive analytics.
 
-The project applies a structured data analysis and predictive modeling workflow using **Altair AI Studio (formerly RapidMiner)** to transform historical data into predictive insights that can support understanding of EV demand trends.
+The project applies **Altair AI Studio (formerly RapidMiner)** to develop a no-code machine learning workflow covering data preprocessing, feature engineering, regression analysis, and predictive modeling.
 
-### 🏆 Project Recognition
+### 🏆 Research Recognition
 
-The research project received a **"Very Good"** recognition at **AUCC 2026**, reflecting the quality of its methodology and findings.
+This project was awarded the **"Very Good"** recognition for its methodology and impactful findings.
 
 ---
 
-## 🎯 Research Objectives
+## 🎯 Research Objective
 
-The project aims to:
+The main objective of this study is to:
 
-- Analyze historical trends related to Electric Vehicle (EV) demand.
-- Identify patterns and relationships within the dataset.
-- Apply Machine Learning techniques for predictive modeling.
-- Develop a model for forecasting EV trends and demand.
+- Analyze factors related to Electric Vehicle (EV) growth.
+- Develop a predictive model for EV trends and demand.
+- Apply machine learning techniques to real-world EV-related data.
 - Evaluate the predictive performance of the developed model.
-- Generate data-driven insights that can support understanding of EV demand.
+- Generate data-driven insights that can support understanding of future EV trends.
 
 ---
 
 ## 🧠 Model Architecture & Methodology
 
-The project utilizes **Altair AI Studio** (formerly RapidMiner) to develop a **no-code Machine Learning pipeline**.
+We utilized **Altair AI Studio** (formerly RapidMiner) to build a robust **no-code machine learning pipeline**.
 
-The workflow consists of several key stages:
+The workflow includes:
 
 ```text
-📊 Data Collection
-       ↓
+📊 Data
+   ↓
 🧹 Data Preprocessing
-       ↓
+   ↓
 ⚙️ Feature Engineering
-       ↓
-📈 Exploratory / Statistical Analysis
-       ↓
+   ↓
+📈 Regression Analysis
+   ↓
 🤖 Predictive Modeling
-       ↓
-📊 Regression Analysis
-       ↓
-🎯 Model Evaluation
-       ↓
+   ↓
+📊 Model Evaluation
+   ↓
 🔮 EV Demand Forecasting
